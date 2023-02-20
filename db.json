@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "vlad",
+      "lastName": "vlad999",
+      "number": "000999000999",
+      "id": 1
+    },
+    {
+      "name": "vlad",
+      "lastName": "vasilev",
+      "number": "996223774377",
+      "id": 2
+    },
+    {
+      "name": "vlad",
+      "lastName": "vasilev",
+      "number": "888888888",
+      "id": 3
+    }
+  ]
+}
